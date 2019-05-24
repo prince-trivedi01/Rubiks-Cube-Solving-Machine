@@ -1,0 +1,16 @@
+Hardware Requirements:
+Pentium III Processor 
+Webcam
+256 Megabytes (MB) of RAM 
+Arduino UNO
+Servo Motors 
+Display with 256 colours  
+80GB Hard disk
+32-bit Windows operating system 
+
+Software Requirements:
+Microsoft Windows 10 
+Arduino IDE
+Cube Explorer Software 
+C Language for Arduino
+Python Complier 
